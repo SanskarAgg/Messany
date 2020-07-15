@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark"
+    android:layout_height="match_parent"
+    tools:context=".StartActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MESSANY"
+        android:textColor="#fff"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/button_border"
+        android:text="login"
+        android:textColor="#fff"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button_border"
+        android:text="register"
+        android:textColor="#fff"
+        android:textSize="20dp" />
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Made With ❤ By Sanskar"-->
+<!--        android:textColor="#fff"-->
+<!--        android:textSize="30sp"-->
+<!--        android:textStyle="normal"-->
+<!--        android:layout_marginTop="40dp"/>-->
+
+</LinearLayout>

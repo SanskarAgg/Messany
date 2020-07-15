@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540842870518",
+    "firebase_url": "https://messany-85f98.firebaseio.com",
+    "project_id": "messany-85f98",
+    "storage_bucket": "messany-85f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540842870518:android:19127fb866484315024ed7",
+        "android_client_info": {
+          "package_name": "com.example.Messany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540842870518-uv5ld6t5ob3v51khe9p46aukck37k5j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcpCH4qEfyIQGvvFQMmb2OFNmxeTMuyAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540842870518-uv5ld6t5ob3v51khe9p46aukck37k5j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
